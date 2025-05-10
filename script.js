@@ -4,7 +4,7 @@ function checkNumber() {
   const result = document.getElementById("result");
 
   if (parseInt(input) === correctNumber) {
-    result.textContent = "Correct number!";
+    result.textContent = "Voad is the night. Rise up and down! you peasants shall quiver in his presence.";
   } else {
     result.textContent = "";
   }
